@@ -31,7 +31,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 ![](https://visitcount.itsvg.in/api?id=ash-codes18&icon=1&color=10)
 
 
-![Marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=andr3kaua&show_icons=true&theme=dark)
+![Marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=tavares2009&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=dark)
 
 
