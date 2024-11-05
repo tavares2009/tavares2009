@@ -45,9 +45,9 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   ##
 <div> 
   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/kaz_xzzk14" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:aandrekauadesousalima@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/tavares_4m" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/tavaresxit" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:tavaresmarcos2501@gmai.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/mari4souza/)
 
@@ -55,11 +55,11 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   <p><h1 align="right"> <strong>🏆 T R O P H I E S</strong></h1>
 <br><br>
 
-![](https://github-profile-trophy.vercel.app/?username=andr3kaua&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=tavares2009&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
 
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=andr3kaua&theme=monokai-metallian&hide_border=true&show_icons=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=tavares2009&theme=monokai-metallian&hide_border=true&show_icons=true)
 </div>
 <br>
 <br>
